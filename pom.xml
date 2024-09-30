@@ -32,7 +32,7 @@
         <mybatis-plus.version>3.3.1.tmp</mybatis-plus.version>
         <fastdfs.version>1.26.7</fastdfs.version>
         <shiro-redis.version>3.2.3</shiro-redis.version>
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.83_noneautotype</fastjson.version>
         <hutool.version>5.1.1</hutool.version>
         <bitwalker.version>1.19</bitwalker.version>
         <dubbo.version>2.7.5</dubbo.version>
